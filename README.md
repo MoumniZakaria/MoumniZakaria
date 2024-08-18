@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![<zmoumni>'s 42 stats](https://badge.mediaplus.ma/levi/<zmoumni>)]
+[![<zmoumni>'s 42 stats](https://badge.mediaplus.ma/levi/<zmoumni>)](https://github.com/oakoudad/badge42)
 <!--
 **MoumniZakaria/MoumniZakaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
