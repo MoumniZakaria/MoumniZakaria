@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+![zmoumni's 42 stats](https://badge.mediaplus.ma/HxH/zmoumni)
+
 - 🔭 I’m currently working on **my personal portfolio**
 
 - 🌱 I’m currently learning **React , Next**
